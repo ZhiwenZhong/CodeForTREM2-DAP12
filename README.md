@@ -16,7 +16,9 @@ The study investigates the molecular mechanisms underlying the association betwe
 ---
 
 ## Repository Contents
-- **`input_files/`**  
+- **`System/`**
+- - **`AA/`**  
+- **`CG/`**  
   System setup files (GROMACS-compatible topology, coordinates).
 - **`scripts/`**  
   Python scripts for:
@@ -24,7 +26,6 @@ The study investigates the molecular mechanisms underlying the association betwe
   - Hydrogen bond analysis.
   - RMSD/RMSF calculations.
   - Contact map generation.
-- **`analysis_notebooks/`**  
   Jupyter notebooks for advanced visualization and analysis.
 - **`figures/`**  
   Example plots and data figures generated from the analysis.
