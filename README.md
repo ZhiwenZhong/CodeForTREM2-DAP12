@@ -17,7 +17,7 @@ The study investigates the molecular mechanisms underlying the association betwe
 
 ## Repository Contents
 - **`System/`**
-- - **`AA/`**  
+- **`AA/`**  
 - **`CG/`**  
   System setup files (GROMACS-compatible topology, coordinates).
 - **`scripts/`**  
